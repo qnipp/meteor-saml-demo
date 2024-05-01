@@ -2,8 +2,8 @@ Package.describe({
   name: "qnipp:meteor-accounts-saml",
   summary:
     "Integrates the Meteor application as SAML Service Provider, based on node-saml",
-  version: "0.0.1",
-  git: "https://github.com/qnipp/meteor-accounts-saml.git",
+  version: "0.0.2",
+  git: "https://github.com/qnipp/meteor-saml-demo.git",
 });
 
 Package.onUse(function (api) {
