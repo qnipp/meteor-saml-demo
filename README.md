@@ -2,6 +2,8 @@
 
 Demo for the [qnipp:meteor-accounts-saml](https://atmospherejs.com/qnipp/meteor-accounts-saml) package
 
+See the [live demo on meteorapp.com](https://meteor-saml-demo.meteorapp.com/).
+
 ## Server configuration
 
 * Set up the SAML providers as in [server/saml.js](./server/saml.js) or provide them in `Meteor.settings.saml`
