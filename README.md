@@ -1,6 +1,6 @@
 # meteor-saml-demo
 
-Demo for the [qnipp:meteor-accounts-saml](https://atmospherejs.com/qnipp/meteor-accounts-saml) package
+Demo for the [qnipp:accounts-saml](https://atmospherejs.com/qnipp/accounts-saml) package
 
 See the [live demo on meteorapp.com](https://meteor-saml-demo.meteorapp.com/).
 
